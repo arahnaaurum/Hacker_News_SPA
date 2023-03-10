@@ -1,0 +1,15 @@
+.header {
+    background-color: #282828;
+    color: #ffffff;
+    padding: 18px 24px;
+    margin-bottom: 48px;
+}
+.header__container {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 32px;
+}
+.header__title {
+    text-transform: uppercase;
+}
